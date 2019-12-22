@@ -11,6 +11,6 @@ export const Routes: Route[] = [
     {
         path: '/',
         component: WelcomeContainer,
-        exact: false,
+        exact: true,
     },
 ]

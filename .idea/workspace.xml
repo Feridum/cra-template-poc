@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76509a0b-93f9-475a-a7fe-e0b0d57a6f5b" name="Default Changelist" comment="remove unnecessary files">
+    <list default="true" id="76509a0b-93f9-475a-a7fe-e0b0d57a6f5b" name="Default Changelist" comment="update pa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/navigation/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/navigation/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +36,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test-cli" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\Repozytoria\cra-template-poc\node_modules\prettier" />
-    <property name="ts.external.directory.path" value="D:\Repozytoria\cra-template-poc\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\aleks\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\193.5662.54\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -108,7 +113,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576914183888</updated>
-      <workItem from="1576914185142" duration="5075000" />
+      <workItem from="1576914185142" duration="9116000" />
+      <workItem from="1576931289252" duration="43000" />
+      <workItem from="1576948740766" duration="199000" />
+      <workItem from="1576954463014" duration="3265000" />
+      <workItem from="1577009637893" duration="1644000" />
+      <workItem from="1577013436872" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1576917449914</created>
@@ -145,7 +155,35 @@
       <option name="project" value="LOCAL" />
       <updated>1576918829688</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add readme">
+      <created>1576919298583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576919298583</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update package.json">
+      <created>1576921150618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576921150618</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remove image">
+      <created>1576922967245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576922967245</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new version">
+      <created>1576923009040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576923009040</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,36 +194,52 @@
     <MESSAGE value="add package json" />
     <MESSAGE value="package json fix" />
     <MESSAGE value="remove unnecessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove unnecessary files" />
+    <MESSAGE value="add readme" />
+    <MESSAGE value="update package.json" />
+    <MESSAGE value="remove image" />
+    <MESSAGE value="new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576915734766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576915734766" />
-    <state x="507" y="114" key="CommitChangelistDialog2" timestamp="1576918994502">
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577013443944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="507" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576918994502" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1576917333194">
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577013443944" />
+    <state x="507" y="114" key="CommitChangelistDialog2" timestamp="1576923008638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576917333194" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1576917333194">
+    <state x="507" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576923008638" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1577013961580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576917333194" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1576917333193">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577013961580" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1576930029790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576917333193" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1576917333194">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576930029790" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1576930029790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576917333194" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576930029790" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1576930029790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576930029790" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1576930029790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576930029790" />
     <state x="790" y="230" key="RollbackChangesDialog" timestamp="1576917372987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576917372987" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576923009914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576923009914" />
   </component>
 </project>
